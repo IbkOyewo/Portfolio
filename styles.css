@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    font-family: 'quicksand', sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+.author-img{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin-left: 15px;
+}
+
+
+img {
+    max-width: 100%;
+    padding-top: 7.5rem;
+  }
+
+  .image {
+    flex-basis: 90%
+  }
+
+.welcome{
+    margin-top: 9.3rem;
+    margin-left: 3rem;
+}
+
+.side-profile{
+    background-color: #00152e;
+}
